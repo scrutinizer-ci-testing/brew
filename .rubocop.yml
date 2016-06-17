@@ -135,7 +135,7 @@ Lint/Debugger:
 Style/MethodDefParentheses:
   Enabled: true
 
-Style/EndBlock
+Style/EndBlock:
   Enabled: true
 
 
